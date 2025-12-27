@@ -1,5 +1,3 @@
-# kernel_xiaomi_citrus
-
 Linux kernel source for **POCO M3 (citrus)**.
 
 ## Device Information
@@ -22,7 +20,6 @@ This kernel is licensed under **GNU General Public License v2 (GPL-2.0)**.
 See the `COPYING` file for full license text.
 
 ## Notes
-- This is **not yet a custom kernel**
-- History was reset for clean maintenance (Option C)
-- Branding and modifications will be added incrementally
+- This is **not a custom kernel**
+- History was reset for clean maintenance
 
